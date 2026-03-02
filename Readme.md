@@ -1,22 +1,24 @@
-🏗️ The Blueprint Series
+# 🏗️ Blueprint Series
 
-Welcome to the official code repository for the Blueprint Series, my technical blog on Medium. This series explores the inner workings, architectures, and practical applications of modern AI frameworks.
+Welcome to the **Blueprint Series**, the official code repository accompanying my technical blog on **Medium**. This repository serves as a learning hub for modern **AI frameworks and methodologies**, showcasing mini-projects, experiments, and practical implementations to better understand AI tools and their applications.
 
-This repository serves as a centralized hub for my learning journey, featuring mini-projects, architectural experiments, and hands-on examples developed as I master new tools in the AI ecosystem.
+---
 
-📂 Project Structure
+## 📂 Repository Overview
 
-Each directory represents a specific framework or deep dive within the series. Inside, you’ll find structured learning materials, sample code snippets used in my articles, and functional prototypes.
+The repository is structured into directories, each exploring **specific frameworks** with code-based insights.
 
-| Directory | Framework | Status | Medium Link |
-| :--- | :--- | :--- | :--- |
-| `/LangChain` | **LangChain** | 🚧 In Progress | link.... |
-| `/LangGraph` | **LangGraph** | 🚧 In Progress | link.... |
+### Directories and Topics
+| Folder | Description |
+|--------|-------------|
+| [LangChain Foundation](https://github.com/kailas711/Blueprint-Series/tree/main/Langchain%20Foundation) | Practical deep dive into **LangChain**, including foundational concepts, tools, memory management, middleware, and multi-agent setups. Examples cover ChatOllama integration, SQL RAG agents, and contextual state management. |
+| [LangGraph Foundation](https://github.com/kailas711/Blueprint-Series/tree/main/LangGraph%20Foundation) | Experiments with **LangGraph** tools to handle graph-like data, long-term memory, and persistent agents. _(In Progress)_ |
 
+---
 
-🛠️ How to Use This Repo
+## 🛠️ How to Use the Repo
 
-
-- Clone the repo: git clone https://github.com/[kailas711]/blueprint-series.git
-- Navigate to a framework: Browse the subdirectories to find specific code examples referenced in the blog posts.
-- Install dependencies: Each folder contains its own requirements or setup guide.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/kailas711/Blueprint-Series.git
+   cd Blueprint-Series
